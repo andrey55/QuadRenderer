@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDREY-PC</Machine>
+    <WindowsUser>Andrey</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.Direct3DTutorialLesson3.CPP</PackageIdentityName>
+    <IntermediateOutputPath>D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AEF3D667C639663C7E2A25FE075DA06389B822A9F3B4136C4F5BC936C6986370</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.Direct3DTutorialLesson3.CPP_1.0.0.0_x86__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.Direct3DTutorialLesson3.CPP_8wekyb3d8bbwe!Direct3DTutorial.Lesson3.Cubes.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.Direct3DTutorialLesson3.CPP</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-29T14:09:55.597</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.Windows.exe">
+      <PackagePath>Lesson3.Cubes.Windows.exe</PackagePath>
+      <Modified>2014-10-29T14:09:54.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.winmd">
+      <PackagePath>Lesson3.Cubes.winmd</PackagePath>
+      <Modified>2014-10-29T14:09:54.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\smallTile-phone-sdk.png">
+      <PackagePath>smallTile-phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\splash-phone-sdk.png">
+      <PackagePath>splash-phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\squareTile-sdk.png">
+      <PackagePath>squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\storeLogo-sdk.png">
+      <PackagePath>storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\windowsbig-sdk.png">
+      <PackagePath>windowsbig-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\tile-sdk.png">
+      <PackagePath>tile-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\mediumTile-sdk.png">
+      <PackagePath>mediumTile-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\smalltile-windows-sdk.png">
+      <PackagePath>smalltile-windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\splash-windows-sdk.png">
+      <PackagePath>splash-windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:09:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimplePixelShader.cso">
+      <PackagePath>SimplePixelShader.cso</PackagePath>
+      <Modified>2014-10-29T14:09:49.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimpleVertexShader.cso">
+      <PackagePath>SimpleVertexShader.cso</PackagePath>
+      <Modified>2014-10-29T14:09:50.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-29T14:09:55.443</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿Build started 10/29/2014 3:10:32 PM.
+     1>Project "D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Lesson3.Cubes.Windows.vcxproj" on node 2 (Rebuild target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"SimplePixelShader" /T ps_4_0_level_9_1 /Fo "D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimplePixelShader.cso" /Od /Zi D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\SimplePixelShader.hlsl 
+         compilation object save succeeded; see D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimplePixelShader.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"SimpleVertexShader" /T vs_4_0_level_9_1 /Fo "D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimpleVertexShader.cso" /Od /Zi D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\SimpleVertexShader.hlsl 
+         compilation object save succeeded; see D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\SimpleVertexShader.cso
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\ /IDebug\ /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\ /I"Generated Files\\" /IDebug\ /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _DEBUG /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\pch.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\ /IDebug\ /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\ /I"Generated Files\\" /IDebug\ /ID:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _DEBUG /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\pch.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\BasicReaderWriter.cpp D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\Direct3DBase.cpp D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\GeometryTypes.cpp D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\Main.cpp D:\Task\Alias\New_10_27\Lesson3.Cubes\Shared\QuadRenderer.cpp
+         BasicReaderWriter.cpp
+         Direct3DBase.cpp
+         GeometryTypes.cpp
+         Main.cpp
+         QuadRenderer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.Windows.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\\lib\store" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\\lib" d2d1.lib d3d11.lib dxgi.lib ole32.lib windowscodecs.lib dwrite.lib kernel32.lib /MANIFEST:NO /DEBUG /PDB:"D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.Windows.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\BasicReaderWriter.obj
+         Debug\Direct3DBase.obj
+         Debug\GeometryTypes.obj
+         Debug\Main.obj
+         Debug\QuadRenderer.obj
+         Debug\pch.obj
+         Lesson3.Cubes.Windows.vcxproj -> D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\Lesson3.Cubes.Windows.exe
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x64\MakePri.exe New -ProjectRoot D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\ -ConfigXml Debug\priconfig.xml -OutputFile D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Debug\Lesson3.Cubes.Windows\resources.pri -IndexName Microsoft.SDKSamples.Direct3DTutorialLesson3.CPP -Verbose -Overwrite  
+     1>Done Building Project "D:\Task\Alias\New_10_27\Lesson3.Cubes\Windows\Lesson3.Cubes.Windows.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.55
